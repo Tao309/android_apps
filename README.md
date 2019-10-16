@@ -8,5 +8,5 @@ Andoid приложения для вывода акций, новостей и 
 # calypsa_r4 (0.5.0)
 ![img](temp/calypsa_720x1280_10.png)
 ![img](temp/calypsa_720x1280_01.png)
+![img](temp/calypsa_720x1280_02.png)
 ![img](temp/calypsa_720x1280_09.png)
-![img](temp/calypsa_720x1280_10.png)
